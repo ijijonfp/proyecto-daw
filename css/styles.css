@@ -39,6 +39,16 @@
   width: 100%;
 }
 
+.section2copia {
+  height: 50vh;
+  width: 100%;
+  background-color: red;
+}
+
+.section2copia .resume{
+  background-color: green;
+}
+
 .resume {
   background-color: rgb(40, 80, 120);
 }
